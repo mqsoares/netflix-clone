@@ -1,0 +1,24 @@
+@media screen and (max-width:700px) {
+    header .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .button {
+        margin-top: 5px;
+        width: 300px;
+    }
+
+    .content-main .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+
+}
+
+@media screen and (min-width:1000px) {
+    .content-main .container {
+        width: 70%;
+    }
+}
