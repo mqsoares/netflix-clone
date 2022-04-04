@@ -9,10 +9,8 @@ Nesse projeto aprendemos:
 - Posicionar os elementos com Flexbox
 - Utilizar plugins JQuery a favor da sua aplicação.
 
-Implemtei uns extras para deixar mais fiel ao layout original:
+implementei uns extras para deixar mais fiel ao layout original:
 - Header fixo, que ao rolar a página é envolvido por um background;
 - Ao passar o mouse em "Em alta" aparece a opção de "ver mais";
 
 <img src="https://github.com/mqsoares/netflix-clone/blob/master/assets/netflix-clone.gif?raw=true" alt="exemplo"/>
-
-
